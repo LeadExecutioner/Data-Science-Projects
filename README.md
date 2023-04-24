@@ -22,3 +22,15 @@ With this model, users are able to read and understand traffic signs which are a
 9) Smile selfie capture- The project will capture images every time the user smiles using OpenCV by implementing machine learning.
 
 10) Video surveilance- The project will use spatio temporal autoencoder, which is based on a 3D convolution network, implementing deep learning. The abnormal events are identified by computing the reconstruction loss using Euclidean distance between original and reconstructed batch.
+
+11) Object tracking using camshift- Object tracking is defined as a problem of locating a moving object over time in a video or in a real-time camera feed. The project implements OpenCV's camshift algorithm for performing object tracking
+
+12) Youtube recommendation system- The project is built using PyTorch for training the dataset and implementating deep neural network for performing recommendation
+
+13) Pedestrian detection project- The project is built using a pre-trained machine learning model for detecting people / pedestrian from a video feed, using either a webcam or video file. The pre-trained model used for the task is the yolov4-tiny for performing detection
+
+14) Text summarization project- The project is built implementing deep learning algorithms and using natural language processing
+
+15) Background removal project- Background removal is presently a quite important feature for video calling especially for professional meetings. The project is built using OpenCV and MediaPipe framework.
+
+16) Custom object detection using yolo- Object detection is one of the most common tasks of computer vision. Applications of object detection include identifying objects to complex tasks, understanding different scenarios and making decisions based on them which can be important for self-driving cars and other tools implementing modern technology. Security cameras and even modern-day smartphones all have these capabilities built-in with them for various tasks. The project is built using YOLO V5.
